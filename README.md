@@ -13,6 +13,10 @@
 9. [Template](#template)
 
 ## Abstract Factory
+  
+Abstract Factory is a creational pattern providing a Factory Producer which is responsible for creating individual factories without specifying their concrete classes.
+  
+  
 ## Builder
 ## Facade
 ## Factory
