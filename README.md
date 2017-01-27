@@ -16,6 +16,11 @@
 ## Builder
 ## Facade
 ## Factory
+
+Factory pattern is a creational pattern providing one of the best ways to create an object.
+  
+  
+![factory_uml](http://i.imgur.com/eEJUODF.png "Factory UML")
 ## Observer
 ## Singleton
 ## State
