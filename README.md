@@ -34,7 +34,9 @@ Factory pattern is a creational pattern providing one of the best ways to create
   
 ## Singleton
   
-Singleton pattern is a creational pattern making sure that only single object gets created.    
+Singleton pattern is a creational pattern making sure that only single object gets created. If that object has never been created before, then create it.
+  
+![singleton_uml](http://imgur.com/U9XBNzD.png "Singleton UML")
 ## State
 ## Strategy
 ## Template
