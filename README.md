@@ -14,10 +14,12 @@
 
 ## Abstract Factory
   
-Abstract Factory is a creational pattern providing a Factory Producer which is responsible for creating individual factories without specifying their concrete classes.
+Abstract factory pattern is a creational pattern providing a **FactoryProducer** which is responsible for creating individual factories without specifying their concrete classes.
   
   
 ## Builder
+  
+Builder pattern is a creational pattern using a step-by-step approach to create a complex object. In this case, the **Builder** is an inner class specifying the attributes as same as the object. 
 ## Facade
 ## Factory
 
