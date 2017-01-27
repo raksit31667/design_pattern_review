@@ -20,7 +20,7 @@
 Factory pattern is a creational pattern providing one of the best ways to create an object.
   
   
-![factory_uml](http://i.imgur.com/eEJUODF.png "Factory UML")
+![factory_uml](http://imgur.com/V2i7Vi8.png "Factory UML")
 ## Observer
 ## Singleton
 ## State
