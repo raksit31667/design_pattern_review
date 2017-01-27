@@ -20,6 +20,8 @@ Abstract factory pattern is a creational pattern providing a **FactoryProducer**
 ## Builder
   
 Builder pattern is a creational pattern using a step-by-step approach to create a complex object. In this case, the **Builder** is an inner class specifying the attributes as same as the object. 
+  
+  
 ## Facade
 ## Factory
 
@@ -28,7 +30,11 @@ Factory pattern is a creational pattern providing one of the best ways to create
   
 ![factory_uml](http://imgur.com/V2i7Vi8.png "Factory UML")
 ## Observer
+  
+  
 ## Singleton
+  
+Singleton pattern is a creational pattern making sure that only single object gets created.    
 ## State
 ## Strategy
 ## Template
