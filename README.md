@@ -23,6 +23,9 @@ Builder pattern is a creational pattern using a step-by-step approach to create 
   
   
 ## Facade
+  
+Facade pattern is a structural pattern involving a single class which provides simplified methods to hide complexities.
+For example, **ShapeMaker** provides drawing methods for each **Shape** so that clients can access the system.
 ## Factory
 
 Factory pattern is a creational pattern providing one of the best ways to create an object.
